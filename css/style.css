@@ -133,7 +133,7 @@ img {
 .menu-navigation-link:before {
     content: '';
     position: absolute;
-    bottom: -80px;
+    bottom: -58px;
     left: 0;
     width: 100%;
     background: #18CFAB;
