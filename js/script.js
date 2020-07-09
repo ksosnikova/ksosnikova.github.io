@@ -203,7 +203,8 @@ init();
             asNavFor: '.slider',
             // centerMode: true,
             dots: false,
-            focusOnSelect: true
+            focusOnSelect: true,
+            width: '50px'
         });
     });
 
